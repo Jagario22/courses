@@ -1,8 +1,8 @@
 package com.nix.courses.dao;
 
-import com.nix.courses.dao.entityDao.GradeEntityDao;
-import com.nix.courses.dao.entityDao.GroupEntityDao;
-import com.nix.courses.dao.entityDao.LessonEntityDao;
+import com.nix.courses.dao.entitydao.GradeEntityDao;
+import com.nix.courses.dao.entitydao.GroupEntityDao;
+import com.nix.courses.dao.entitydao.LessonEntityDao;
 import com.nix.courses.entity.Grade;
 import com.nix.courses.entity.Group;
 import org.hibernate.Session;

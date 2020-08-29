@@ -1,6 +1,6 @@
 package com.nix.courses.service.system;
 
-import com.nix.courses.dao.entityDao.*;
+import com.nix.courses.dao.entitydao.*;
 import com.nix.courses.entity.*;
 import com.nix.courses.util.DateUtil;
 import com.nix.courses.util.UploadUtil;

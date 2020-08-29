@@ -1,7 +1,7 @@
 package com.nix.courses.dao;
 
-import com.nix.courses.dao.entityDao.GroupEntityDao;
-import com.nix.courses.dao.entityDao.LessonEntityDao;
+import com.nix.courses.dao.entitydao.GroupEntityDao;
+import com.nix.courses.dao.entitydao.LessonEntityDao;
 import com.nix.courses.entity.Lesson;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

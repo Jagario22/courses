@@ -2,7 +2,7 @@ package com.nix.courses;
 
 import com.nix.courses.dao.StudentScheduleInfoDao;
 import com.nix.courses.dao.GroupInfoDao;
-import com.nix.courses.dao.entityDao.*;
+import com.nix.courses.dao.entitydao.*;
 import com.nix.courses.entity.Group;
 import com.nix.courses.entity.Lesson;
 import com.nix.courses.service.system.InitCoursesDbService;

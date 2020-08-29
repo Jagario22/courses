@@ -1,6 +1,6 @@
-package com.nix.courses.dao.entityDao;
+package com.nix.courses.dao.entitydao;
 
-import com.nix.courses.dao.entityDao.abstractDao.AbstractEntityDao;
+import com.nix.courses.dao.entitydao.abstractDao.AbstractEntityDao;
 import com.nix.courses.entity.Student;
 import org.hibernate.Session;
 

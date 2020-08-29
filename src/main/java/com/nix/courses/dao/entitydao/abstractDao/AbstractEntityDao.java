@@ -1,4 +1,4 @@
-package com.nix.courses.dao.entityDao.abstractDao;
+package com.nix.courses.dao.entitydao.abstractDao;
 
 import java.util.List;
 
